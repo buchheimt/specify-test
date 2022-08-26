@@ -1,14 +1,12 @@
 {
-  "repository": "@thirtymadison/Facet",
+  "repository": "@thirtymadison/multi-brand",
   "head": "specify",
   "base": "main",
   "rules": [
     {
-      "name": "Extract Facet tokens to JSON",
-      "path": "specify_output/facet.json",
-      "parsers": [
-
-      ]
+      "name": "Extract all tokens to JSON",
+      "path": "./output/all-tokens.json",
+      "parsers": []
     }
   ]
 }
