@@ -1,0 +1,2719 @@
+[
+    {
+        "id": "598a45d4-3521-4e2f-af12-1d0a705830a4",
+        "createdAt": "2022-08-26T20:56:01.592Z",
+        "updatedAt": "2022-08-26T20:56:01.592Z",
+        "name": "brand-accent-1/background",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 234,
+            "r": 223
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3143",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "220f2577-c33e-4048-bbb9-7f0ae3189b60",
+        "createdAt": "2022-08-26T20:56:01.671Z",
+        "updatedAt": "2022-08-26T20:56:01.671Z",
+        "name": "brand-accent-1/background-hover",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "891:3749",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "79ee6add-dec1-4377-a680-37cf61d9afb9",
+        "createdAt": "2022-08-26T20:56:01.570Z",
+        "updatedAt": "2022-08-26T20:56:01.570Z",
+        "name": "brand-accent-1/icon",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3133",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "a6c43850-d92b-424e-8630-729e77f05ec3",
+        "createdAt": "2022-08-26T20:56:01.587Z",
+        "updatedAt": "2022-08-26T20:56:01.587Z",
+        "name": "brand-accent-1/-stroke",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3122",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "4aaeb5f9-a4de-464d-9bd7-2da122d252ce",
+        "createdAt": "2022-08-26T20:56:01.464Z",
+        "updatedAt": "2022-08-26T20:56:01.464Z",
+        "name": "brand-accent-1/text",
+        "value": {
+            "a": 1,
+            "b": 72,
+            "g": 55,
+            "r": 45
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3505",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "3b9d1b2e-a955-4815-a73e-1bf93e0a54de",
+        "createdAt": "2022-08-26T20:56:01.585Z",
+        "updatedAt": "2022-08-26T20:56:01.585Z",
+        "name": "brand-accent-1/text-strong",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3503",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "64ff1acb-6518-4529-a751-6df8f7ef5a6f",
+        "createdAt": "2022-08-26T20:56:01.662Z",
+        "updatedAt": "2022-08-26T20:56:01.662Z",
+        "name": "brand-accent-2/background",
+        "value": {
+            "a": 1,
+            "b": 240,
+            "g": 246,
+            "r": 248
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "200:1859",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "26980e58-2b7f-48ea-94ca-451d6493a67d",
+        "createdAt": "2022-08-26T20:56:01.671Z",
+        "updatedAt": "2022-08-26T20:56:01.671Z",
+        "name": "brand-accent-2/background-hover",
+        "value": {
+            "a": 1,
+            "b": 146,
+            "g": 226,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "891:3748",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "e115bc64-a1f6-4e3c-aaeb-c10dca820a97",
+        "createdAt": "2022-08-26T20:56:01.547Z",
+        "updatedAt": "2022-08-26T20:56:01.547Z",
+        "name": "brand-accent-2/icon",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "200:1858",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "801d5c13-48b5-4086-b0e3-cbd37b34588c",
+        "createdAt": "2022-08-26T20:56:01.574Z",
+        "updatedAt": "2022-08-26T20:56:01.574Z",
+        "name": "brand-accent-2/-stroke",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "200:1857",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "62440ed6-3d0b-48ae-a6b5-320ce2d6c855",
+        "createdAt": "2022-08-26T20:56:01.557Z",
+        "updatedAt": "2022-08-26T20:56:01.557Z",
+        "name": "brand-accent-2/text",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "200:1856",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "3980ff09-3eb1-46d1-9ff2-82f94d8eb323",
+        "createdAt": "2022-08-26T20:56:01.551Z",
+        "updatedAt": "2022-08-26T20:56:01.551Z",
+        "name": "brand-accent-2/text-strong",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "200:1855",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "220d2127-c2b0-44d3-8eaf-7b061b7a0913",
+        "createdAt": "2022-08-26T20:56:01.586Z",
+        "updatedAt": "2022-08-26T20:56:01.586Z",
+        "name": "brand-contrast/background",
+        "value": {
+            "a": 1,
+            "b": 234,
+            "g": 7,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3145",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "1ce1c3aa-cf79-4864-832b-ca8ea574da0c",
+        "createdAt": "2022-08-26T20:56:01.671Z",
+        "updatedAt": "2022-08-26T20:56:01.671Z",
+        "name": "brand-contrast/background-container",
+        "value": {
+            "a": 1,
+            "b": 194,
+            "g": 10,
+            "r": 13
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "957:4294",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "26d1d73c-2344-49a9-97fa-7eadef612af1",
+        "createdAt": "2022-08-26T20:56:01.685Z",
+        "updatedAt": "2022-08-26T20:56:01.685Z",
+        "name": "brand-contrast/background-hover",
+        "value": {
+            "a": 1,
+            "b": 171,
+            "g": 0,
+            "r": 3
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "891:3751",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "f8dad77c-39f8-4a04-95bc-05bf28601a0f",
+        "createdAt": "2022-08-26T20:56:01.678Z",
+        "updatedAt": "2022-08-26T20:56:01.678Z",
+        "name": "brand-contrast/icon",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 208,
+            "r": 123
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3135",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "999ccd1b-3c2e-46d8-94ef-e231570d59bb",
+        "createdAt": "2022-08-26T20:56:01.599Z",
+        "updatedAt": "2022-08-26T20:56:01.599Z",
+        "name": "brand-contrast/link",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "957:4484",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "6107dee6-7ece-437a-be90-c2fdb453356a",
+        "createdAt": "2022-08-26T20:56:01.605Z",
+        "updatedAt": "2022-08-26T20:56:01.605Z",
+        "name": "brand-contrast/link-active",
+        "value": {
+            "a": 1,
+            "b": 244,
+            "g": 214,
+            "r": 227
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "957:4482",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "beac01c1-6435-4ed3-8db0-b651bb131870",
+        "createdAt": "2022-08-26T20:56:01.599Z",
+        "updatedAt": "2022-08-26T20:56:01.599Z",
+        "name": "brand-contrast/link-hover",
+        "value": {
+            "a": 1,
+            "b": 245,
+            "g": 237,
+            "r": 241
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "957:4483",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "fec7c9ac-f5e1-4d78-8bc0-16b09ce95aef",
+        "createdAt": "2022-08-26T20:56:01.463Z",
+        "updatedAt": "2022-08-26T20:56:01.463Z",
+        "name": "brand-contrast/-stroke",
+        "value": {
+            "a": 1,
+            "b": 203,
+            "g": 203,
+            "r": 203
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3124",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "75cb3867-5a8a-4485-aae6-8159062bbe7f",
+        "createdAt": "2022-08-26T20:56:01.593Z",
+        "updatedAt": "2022-08-26T20:56:01.593Z",
+        "name": "brand-contrast/text",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3508",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "4553a3b3-0e0e-4b79-8f5f-1e39a0ef6096",
+        "createdAt": "2022-08-26T20:56:01.426Z",
+        "updatedAt": "2022-08-26T20:56:01.426Z",
+        "name": "brand-contrast/text-strong",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3507",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "67d152da-9df0-415f-9392-fc4d480d06b7",
+        "createdAt": "2022-08-26T20:56:01.606Z",
+        "updatedAt": "2022-08-26T20:56:01.606Z",
+        "name": "brand-contrast/text-weak",
+        "value": {
+            "a": 1,
+            "b": 220,
+            "g": 220,
+            "r": 220
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "957:4292",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "cecff856-2665-42ff-996b-036c862a7404",
+        "createdAt": "2022-08-26T20:56:01.461Z",
+        "updatedAt": "2022-08-26T20:56:01.461Z",
+        "name": "brand-neutral/background",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3157",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "036ba013-3306-4e70-9abf-e6c1540f2255",
+        "createdAt": "2022-08-26T20:56:01.678Z",
+        "updatedAt": "2022-08-26T20:56:01.678Z",
+        "name": "brand-neutral/background-container",
+        "value": {
+            "a": 1,
+            "b": 240,
+            "g": 245,
+            "r": 248
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3150",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "201d4598-5ab5-41f0-9140-35a0bd943ceb",
+        "createdAt": "2022-08-26T20:56:01.685Z",
+        "updatedAt": "2022-08-26T20:56:01.685Z",
+        "name": "brand-neutral/background-hover",
+        "value": {
+            "a": 1,
+            "b": 181,
+            "g": 0,
+            "r": 232
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "891:3752",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "b82d40f0-9923-445b-85ce-d55a0dc33918",
+        "createdAt": "2022-08-26T20:56:01.469Z",
+        "updatedAt": "2022-08-26T20:56:01.469Z",
+        "name": "brand-neutral/hover-stroke",
+        "value": {
+            "a": 1,
+            "b": 72,
+            "g": 55,
+            "r": 45
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "238:1997",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "2de26d25-265e-4523-b350-36cfc8ca416c",
+        "createdAt": "2022-08-26T20:56:01.439Z",
+        "updatedAt": "2022-08-26T20:56:01.439Z",
+        "name": "brand-neutral/icon",
+        "value": {
+            "a": 1,
+            "b": 104,
+            "g": 85,
+            "r": 74
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3142",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "441fbfbb-b34f-4e08-ba97-9855f9cdf2c5",
+        "createdAt": "2022-08-26T20:56:01.524Z",
+        "updatedAt": "2022-08-26T20:56:01.524Z",
+        "name": "brand-neutral/link",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "887:3717",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "cd34ab11-1ef1-4924-98c8-bcd83841fb02",
+        "createdAt": "2022-08-26T20:56:01.680Z",
+        "updatedAt": "2022-08-26T20:56:01.680Z",
+        "name": "brand-neutral/link-active",
+        "value": {
+            "a": 1,
+            "b": 234,
+            "g": 7,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "887:3715",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "7ec38939-4c52-4d9d-b126-28c59559794e",
+        "createdAt": "2022-08-26T20:56:01.667Z",
+        "updatedAt": "2022-08-26T20:56:01.667Z",
+        "name": "brand-neutral/link-hover",
+        "value": {
+            "a": 1,
+            "b": 197,
+            "g": 24,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "887:3716",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "727ea093-bc2f-4bde-a6fe-8fc2fd51d638",
+        "createdAt": "2022-08-26T20:56:01.679Z",
+        "updatedAt": "2022-08-26T20:56:01.679Z",
+        "name": "brand-neutral/-stroke",
+        "value": {
+            "a": 1,
+            "b": 228,
+            "g": 228,
+            "r": 228
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3132",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "17e280ac-f574-474b-b4ca-62a6805ebd3d",
+        "createdAt": "2022-08-26T20:56:01.687Z",
+        "updatedAt": "2022-08-26T20:56:01.687Z",
+        "name": "brand-neutral/strong-stroke",
+        "value": {
+            "a": 1,
+            "b": 228,
+            "g": 228,
+            "r": 228
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "887:3549",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "ea3df296-bcf9-44d5-a36b-ef6a95e4432a",
+        "createdAt": "2022-08-26T20:56:01.595Z",
+        "updatedAt": "2022-08-26T20:56:01.595Z",
+        "name": "brand-neutral/text",
+        "value": {
+            "a": 1,
+            "b": 31,
+            "g": 31,
+            "r": 31
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3520",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "5e0746f4-7ba6-4c0f-b1dc-773712ebb53a",
+        "createdAt": "2022-08-26T20:56:01.426Z",
+        "updatedAt": "2022-08-26T20:56:01.426Z",
+        "name": "brand-neutral/text-strong",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3519",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "11005b4b-b5f3-480d-bcc0-a4d7c14a97b3",
+        "createdAt": "2022-08-26T20:56:01.544Z",
+        "updatedAt": "2022-08-26T20:56:01.544Z",
+        "name": "brand-neutral/text-weak",
+        "value": {
+            "a": 1,
+            "b": 59,
+            "g": 59,
+            "r": 59
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3509",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "769fdfb3-5242-4425-be25-6dea2922c6e1",
+        "createdAt": "2022-08-26T20:56:01.574Z",
+        "updatedAt": "2022-08-26T20:56:01.574Z",
+        "name": "brand-subtle/background",
+        "value": {
+            "a": 1,
+            "b": 245,
+            "g": 245,
+            "r": 245
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3144",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "3f72453e-fcfd-4604-83f9-d92262708230",
+        "createdAt": "2022-08-26T20:56:01.672Z",
+        "updatedAt": "2022-08-26T20:56:01.672Z",
+        "name": "brand-subtle/background-container",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 239,
+            "r": 210
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "899:3769",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "b15b1a1a-aba2-4a80-b80d-1c236314f4a0",
+        "createdAt": "2022-08-26T20:56:01.669Z",
+        "updatedAt": "2022-08-26T20:56:01.669Z",
+        "name": "brand-subtle/background-hover",
+        "value": {
+            "a": 1,
+            "b": 180,
+            "g": 227,
+            "r": 233
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "891:3750",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "1a7f80bd-1be6-49d8-ac08-500274a2e6a9",
+        "createdAt": "2022-08-26T20:56:01.574Z",
+        "updatedAt": "2022-08-26T20:56:01.574Z",
+        "name": "brand-subtle/icon",
+        "value": {
+            "a": 1,
+            "b": 87,
+            "g": 87,
+            "r": 87
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3134",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "1dd39a70-6824-44a2-a879-cb1e3018d1b6",
+        "createdAt": "2022-08-26T20:56:01.557Z",
+        "updatedAt": "2022-08-26T20:56:01.557Z",
+        "name": "brand-subtle/-stroke",
+        "value": {
+            "a": 1,
+            "b": 134,
+            "g": 134,
+            "r": 134
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3123",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "c909edba-cdee-4b6e-96b2-efba8d42b0ea",
+        "createdAt": "2022-08-26T20:56:01.579Z",
+        "updatedAt": "2022-08-26T20:56:01.579Z",
+        "name": "brand-subtle/text",
+        "value": {
+            "a": 1,
+            "b": 79,
+            "g": 70,
+            "r": 70
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3506",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "419a4253-f306-497c-8156-bba33a88edf8",
+        "createdAt": "2022-08-26T20:56:01.580Z",
+        "updatedAt": "2022-08-26T20:56:01.580Z",
+        "name": "brand-subtle/text-strong",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3504",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "ee88c165-da42-4b49-9d8b-8555666b4ebb",
+        "createdAt": "2022-08-26T20:56:31.827Z",
+        "updatedAt": "2022-08-26T20:56:31.827Z",
+        "name": "buttons/brand-accent-1/primary/background",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3103",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "e390aecc-0a4d-425a-aaa0-e660a5adb438",
+        "createdAt": "2022-08-26T20:56:31.829Z",
+        "updatedAt": "2022-08-26T20:56:31.829Z",
+        "name": "buttons/brand-accent-1/primary/background-active",
+        "value": {
+            "a": 1,
+            "b": 204,
+            "g": 204,
+            "r": 204
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3100",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "6c4dae8b-4b53-4f8f-8407-9184e06aba81",
+        "createdAt": "2022-08-26T20:56:31.842Z",
+        "updatedAt": "2022-08-26T20:56:31.842Z",
+        "name": "buttons/brand-accent-1/primary/background-disabled",
+        "value": {
+            "a": 1,
+            "b": 212,
+            "g": 212,
+            "r": 212
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3102",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "e3e02960-0039-4a21-b475-6a917855b7fc",
+        "createdAt": "2022-08-26T20:56:31.838Z",
+        "updatedAt": "2022-08-26T20:56:31.838Z",
+        "name": "buttons/brand-accent-1/primary/background-hover",
+        "value": {
+            "a": 0.8,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3101",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "a3860627-b628-4f01-8dec-e06599cdf026",
+        "createdAt": "2022-08-26T20:56:31.859Z",
+        "updatedAt": "2022-08-26T20:56:31.859Z",
+        "name": "buttons/brand-accent-1/primary/stroke",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3161",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "c5e34c96-dd1d-4d81-960d-08635d6bb98c",
+        "createdAt": "2022-08-26T20:56:31.842Z",
+        "updatedAt": "2022-08-26T20:56:31.842Z",
+        "name": "buttons/brand-accent-1/primary/stroke-active",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3163",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "06853863-4b7d-449d-8b2d-9b0c542882f3",
+        "createdAt": "2022-08-26T20:56:31.864Z",
+        "updatedAt": "2022-08-26T20:56:31.864Z",
+        "name": "buttons/brand-accent-1/primary/stroke-disabled",
+        "value": {
+            "a": 1,
+            "b": 212,
+            "g": 212,
+            "r": 212
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3164",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "f72cb20c-4827-4b74-ba39-d8f4874883f5",
+        "createdAt": "2022-08-26T20:56:31.827Z",
+        "updatedAt": "2022-08-26T20:56:31.827Z",
+        "name": "buttons/brand-accent-1/primary/stroke-hover",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3162",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "4ff7cdb5-48a0-4284-9dd9-f32941fd86fb",
+        "createdAt": "2022-08-26T20:56:31.802Z",
+        "updatedAt": "2022-08-26T20:56:31.802Z",
+        "name": "buttons/brand-accent-1/primary/text",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3045",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "bba81cbf-eb06-4e25-af56-98bc3e5c32ab",
+        "createdAt": "2022-08-26T20:56:31.808Z",
+        "updatedAt": "2022-08-26T20:56:31.808Z",
+        "name": "buttons/brand-accent-1/primary/text-active",
+        "value": {
+            "a": 1,
+            "b": 81,
+            "g": 0,
+            "r": 15
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3042",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "b1a79748-354e-4a3b-8a82-7b102d2c33fd",
+        "createdAt": "2022-08-26T20:56:31.859Z",
+        "updatedAt": "2022-08-26T20:56:31.859Z",
+        "name": "buttons/brand-accent-1/primary/text-disabled",
+        "value": {
+            "a": 1,
+            "b": 90,
+            "g": 90,
+            "r": 90
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3044",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "1969c946-7dd5-49b9-8794-e4d533f8e648",
+        "createdAt": "2022-08-26T20:56:31.815Z",
+        "updatedAt": "2022-08-26T20:56:31.815Z",
+        "name": "buttons/brand-accent-1/primary/text-hover",
+        "value": {
+            "a": 1,
+            "b": 193,
+            "g": 24,
+            "r": 1
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3043",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "d49a8c9e-7168-46cc-8178-13d9bb955c98",
+        "createdAt": "2022-08-26T20:56:31.811Z",
+        "updatedAt": "2022-08-26T20:56:31.811Z",
+        "name": "buttons/brand-accent-1/secondary/background",
+        "value": {
+            "a": 0,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3226",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "1af35001-7e8b-4e52-99b0-bea354e60a5a",
+        "createdAt": "2022-08-26T20:56:31.847Z",
+        "updatedAt": "2022-08-26T20:56:31.847Z",
+        "name": "buttons/brand-accent-1/secondary/background-active",
+        "value": {
+            "a": 0.1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3220",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "07f13457-b83f-488b-ae0c-c1ad7aa3f4cc",
+        "createdAt": "2022-08-26T20:56:31.859Z",
+        "updatedAt": "2022-08-26T20:56:31.859Z",
+        "name": "buttons/brand-accent-1/secondary/background-hover",
+        "value": {
+            "a": 0.05,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3223",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "ad8b8797-9d51-4278-8429-c57ecf671bf4",
+        "createdAt": "2022-08-26T20:56:31.831Z",
+        "updatedAt": "2022-08-26T20:56:31.831Z",
+        "name": "buttons/brand-accent-1/secondary/stroke",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3225",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "1132d8f4-ba18-40db-8e8b-05018bfe6135",
+        "createdAt": "2022-08-26T20:56:31.813Z",
+        "updatedAt": "2022-08-26T20:56:31.813Z",
+        "name": "buttons/brand-accent-1/secondary/stroke-active",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3219",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "3f358f32-fc95-406f-8ac9-88ae279ca326",
+        "createdAt": "2022-08-26T20:56:31.864Z",
+        "updatedAt": "2022-08-26T20:56:31.864Z",
+        "name": "buttons/brand-accent-1/secondary/stroke-hover",
+        "value": {
+            "a": 0.6,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3222",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "a528ed9b-557b-4edb-8f28-d9b04bd837d5",
+        "createdAt": "2022-08-26T20:56:31.823Z",
+        "updatedAt": "2022-08-26T20:56:31.823Z",
+        "name": "buttons/brand-accent-1/secondary/text",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3227",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "86f04eee-ed45-4cd0-bcbf-e508bb39d4c7",
+        "createdAt": "2022-08-26T20:56:31.808Z",
+        "updatedAt": "2022-08-26T20:56:31.808Z",
+        "name": "buttons/brand-accent-1/secondary/text-active",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3221",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "22f9abac-ab5d-429f-8798-44d5582ad6d5",
+        "createdAt": "2022-08-26T20:56:31.808Z",
+        "updatedAt": "2022-08-26T20:56:31.808Z",
+        "name": "buttons/brand-accent-1/secondary/text-hover",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1185:3224",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "61110b9a-1a68-4685-b0c4-df87c2b20666",
+        "createdAt": "2022-08-26T20:56:01.493Z",
+        "updatedAt": "2022-08-26T20:56:01.493Z",
+        "name": "buttons/brand-contrast/primary/background",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4556",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "ad4c11d4-2d0a-460c-970d-7a754bb32d52",
+        "createdAt": "2022-08-26T20:56:01.483Z",
+        "updatedAt": "2022-08-26T20:56:01.483Z",
+        "name": "buttons/brand-contrast/primary/background-active",
+        "value": {
+            "a": 1,
+            "b": 204,
+            "g": 204,
+            "r": 204
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4540",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "99ec9a58-7705-414b-bfae-7496dd79be8a",
+        "createdAt": "2022-08-26T20:56:01.666Z",
+        "updatedAt": "2022-08-26T20:56:01.666Z",
+        "name": "buttons/brand-contrast/primary/background-disabled",
+        "value": {
+            "a": 1,
+            "b": 182,
+            "g": 182,
+            "r": 182
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4550",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "f8d5b34a-9818-40cd-a17b-a955b03ccf9a",
+        "createdAt": "2022-08-26T20:56:01.464Z",
+        "updatedAt": "2022-08-26T20:56:01.464Z",
+        "name": "buttons/brand-contrast/primary/background-hover",
+        "value": {
+            "a": 1,
+            "b": 237,
+            "g": 237,
+            "r": 243
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4546",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "263588e0-7aec-4cde-b219-e83d24024daa",
+        "createdAt": "2022-08-26T20:56:01.501Z",
+        "updatedAt": "2022-08-26T20:56:01.501Z",
+        "name": "buttons/brand-contrast/primary/stroke",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4555",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "e56a00ca-6012-4291-a2d7-47eee79c2761",
+        "createdAt": "2022-08-26T20:56:01.487Z",
+        "updatedAt": "2022-08-26T20:56:01.487Z",
+        "name": "buttons/brand-contrast/primary/stroke-active",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4539",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "07d76f82-8727-4b01-84d5-4099f72202a2",
+        "createdAt": "2022-08-26T20:56:01.660Z",
+        "updatedAt": "2022-08-26T20:56:01.660Z",
+        "name": "buttons/brand-contrast/primary/stroke-disabled",
+        "value": {
+            "a": 1,
+            "b": 212,
+            "g": 212,
+            "r": 212
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4549",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "43871bf2-7813-47d7-964e-6c82b4dcbce3",
+        "createdAt": "2022-08-26T20:56:01.475Z",
+        "updatedAt": "2022-08-26T20:56:01.475Z",
+        "name": "buttons/brand-contrast/primary/stroke-hover",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4545",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "31e89c81-c73d-4abf-adc1-f124c7bf85fe",
+        "createdAt": "2022-08-26T20:56:01.465Z",
+        "updatedAt": "2022-08-26T20:56:01.465Z",
+        "name": "buttons/brand-contrast/primary/text",
+        "value": {
+            "a": 1,
+            "b": 57,
+            "g": 18,
+            "r": 25
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4557",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "8a5e2849-6949-4ab2-832e-012d22b6a2dd",
+        "createdAt": "2022-08-26T20:56:01.464Z",
+        "updatedAt": "2022-08-26T20:56:01.464Z",
+        "name": "buttons/brand-contrast/primary/text-active",
+        "value": {
+            "a": 1,
+            "b": 57,
+            "g": 18,
+            "r": 25
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4541",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "e6be2698-4f97-49cf-80c9-19f75978a7bc",
+        "createdAt": "2022-08-26T20:56:01.484Z",
+        "updatedAt": "2022-08-26T20:56:01.484Z",
+        "name": "buttons/brand-contrast/primary/text-disabled",
+        "value": {
+            "a": 1,
+            "b": 90,
+            "g": 90,
+            "r": 90
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4551",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "39f8b8e3-64c4-476d-b873-098f9e2a7254",
+        "createdAt": "2022-08-26T20:56:01.467Z",
+        "updatedAt": "2022-08-26T20:56:01.467Z",
+        "name": "buttons/brand-contrast/primary/text-hover",
+        "value": {
+            "a": 1,
+            "b": 57,
+            "g": 18,
+            "r": 25
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4547",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "653662ec-2f42-4fe2-bf89-5e59c1c9d731",
+        "createdAt": "2022-08-26T20:56:01.495Z",
+        "updatedAt": "2022-08-26T20:56:01.495Z",
+        "name": "buttons/brand-contrast/secondary/background",
+        "value": {
+            "a": 0,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4553",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "1c61aa55-7952-4b11-b3a0-39b5d0b8b647",
+        "createdAt": "2022-08-26T20:56:01.500Z",
+        "updatedAt": "2022-08-26T20:56:01.500Z",
+        "name": "buttons/brand-contrast/secondary/background-active",
+        "value": {
+            "a": 0.1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4536",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "08058d63-3b99-4dfb-96f2-b1d058a918fe",
+        "createdAt": "2022-08-26T20:56:01.484Z",
+        "updatedAt": "2022-08-26T20:56:01.484Z",
+        "name": "buttons/brand-contrast/secondary/background-hover",
+        "value": {
+            "a": 0.05,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4543",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "6deb13ae-63b3-4b3d-ae0c-713b54442696",
+        "createdAt": "2022-08-26T20:56:01.500Z",
+        "updatedAt": "2022-08-26T20:56:01.500Z",
+        "name": "buttons/brand-contrast/secondary/stroke",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4552",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "64b7a655-e0be-4add-b3a8-dd9302571b28",
+        "createdAt": "2022-08-26T20:56:01.465Z",
+        "updatedAt": "2022-08-26T20:56:01.465Z",
+        "name": "buttons/brand-contrast/secondary/stroke-active",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4535",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "9205cb0d-ebf9-4dba-b64b-fb14818592fd",
+        "createdAt": "2022-08-26T20:56:01.483Z",
+        "updatedAt": "2022-08-26T20:56:01.483Z",
+        "name": "buttons/brand-contrast/secondary/stroke-hover",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4542",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "a94613f8-5026-4faf-9d54-95f6ef4cd5b4",
+        "createdAt": "2022-08-26T20:56:01.484Z",
+        "updatedAt": "2022-08-26T20:56:01.484Z",
+        "name": "buttons/brand-contrast/secondary/text",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4554",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "37b4ea4a-bf54-4a51-bc0e-2ce86e94ca54",
+        "createdAt": "2022-08-26T20:56:01.488Z",
+        "updatedAt": "2022-08-26T20:56:01.488Z",
+        "name": "buttons/brand-contrast/secondary/text-active",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4537",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "a967082b-0739-48d8-b585-3a4405b078cb",
+        "createdAt": "2022-08-26T20:56:01.495Z",
+        "updatedAt": "2022-08-26T20:56:01.495Z",
+        "name": "buttons/brand-contrast/secondary/text-hover",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "529:4544",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "62c5835c-5090-4c60-9b6b-ad719aad4dbc",
+        "createdAt": "2022-08-26T20:56:01.649Z",
+        "updatedAt": "2022-08-26T20:56:01.649Z",
+        "name": "buttons/brand-neutral/primary/background",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3296",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "55460bca-55ab-4768-81cf-636546778987",
+        "createdAt": "2022-08-26T20:56:01.660Z",
+        "updatedAt": "2022-08-26T20:56:01.660Z",
+        "name": "buttons/brand-neutral/primary/background-active",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 78,
+            "r": 55
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3292",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "85795ab6-023e-4a87-b98a-61a8ad4d3b7d",
+        "createdAt": "2022-08-26T20:56:01.665Z",
+        "updatedAt": "2022-08-26T20:56:01.665Z",
+        "name": "buttons/brand-neutral/primary/background-disabled",
+        "value": {
+            "a": 1,
+            "b": 182,
+            "g": 182,
+            "r": 182
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3271",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "cd002428-d49b-46d5-9a15-64c2b3d0d1f8",
+        "createdAt": "2022-08-26T20:56:01.656Z",
+        "updatedAt": "2022-08-26T20:56:01.656Z",
+        "name": "buttons/brand-neutral/primary/background-hover",
+        "value": {
+            "a": 1,
+            "b": 206,
+            "g": 24,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3294",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "64273f48-ec7b-4e59-a4da-37d88694e018",
+        "createdAt": "2022-08-26T20:56:01.648Z",
+        "updatedAt": "2022-08-26T20:56:01.648Z",
+        "name": "buttons/brand-neutral/primary/stroke",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3291",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "465b6183-9e7f-4cfd-a876-bfbd3eff6ca1",
+        "createdAt": "2022-08-26T20:56:01.649Z",
+        "updatedAt": "2022-08-26T20:56:01.649Z",
+        "name": "buttons/brand-neutral/primary/stroke-active",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3288",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "e4b11698-1e9f-493b-b499-839cf89dec9d",
+        "createdAt": "2022-08-26T20:56:01.587Z",
+        "updatedAt": "2022-08-26T20:56:01.587Z",
+        "name": "buttons/brand-neutral/primary/stroke-disabled",
+        "value": {
+            "a": 1,
+            "b": 212,
+            "g": 212,
+            "r": 212
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3269",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "68e7593a-c4e8-4b3b-9933-3472e9bb89fb",
+        "createdAt": "2022-08-26T20:56:01.482Z",
+        "updatedAt": "2022-08-26T20:56:01.482Z",
+        "name": "buttons/brand-neutral/primary/stroke-hover",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3289",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "2f64ffd4-46fa-4487-8828-045c91ebdfa7",
+        "createdAt": "2022-08-26T20:56:01.479Z",
+        "updatedAt": "2022-08-26T20:56:01.479Z",
+        "name": "buttons/brand-neutral/primary/text",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3302",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "b9585992-487d-46d4-b307-98d008cdf353",
+        "createdAt": "2022-08-26T20:56:01.500Z",
+        "updatedAt": "2022-08-26T20:56:01.500Z",
+        "name": "buttons/brand-neutral/primary/text-active",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3298",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "fa6eaaa4-4247-4703-b7f7-0c6a39654320",
+        "createdAt": "2022-08-26T20:56:01.666Z",
+        "updatedAt": "2022-08-26T20:56:01.666Z",
+        "name": "buttons/brand-neutral/primary/text-disabled",
+        "value": {
+            "a": 1,
+            "b": 90,
+            "g": 90,
+            "r": 90
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3273",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "8f11712f-8b93-45ec-b74c-b7f27fc1d574",
+        "createdAt": "2022-08-26T20:56:01.475Z",
+        "updatedAt": "2022-08-26T20:56:01.475Z",
+        "name": "buttons/brand-neutral/primary/text-hover",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3300",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "74a319df-ac09-465c-81ab-a6cc559a3506",
+        "createdAt": "2022-08-26T20:56:01.469Z",
+        "updatedAt": "2022-08-26T20:56:01.469Z",
+        "name": "buttons/brand-neutral/secondary/background",
+        "value": {
+            "a": 0,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3282",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "7f091f26-ea0d-4cfe-a3e0-93970cf8deae",
+        "createdAt": "2022-08-26T20:56:01.661Z",
+        "updatedAt": "2022-08-26T20:56:01.661Z",
+        "name": "buttons/brand-neutral/secondary/background-active",
+        "value": {
+            "a": 0.1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3279",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "652aeee6-7b7e-40d8-9bbd-12cb90d58815",
+        "createdAt": "2022-08-26T20:56:01.617Z",
+        "updatedAt": "2022-08-26T20:56:01.617Z",
+        "name": "buttons/brand-neutral/secondary/background-hover",
+        "value": {
+            "a": 0.05,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3280",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "aa19de56-540d-412c-8cc6-7beca29c3a16",
+        "createdAt": "2022-08-26T20:56:01.608Z",
+        "updatedAt": "2022-08-26T20:56:01.608Z",
+        "name": "buttons/brand-neutral/secondary/stroke",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3277",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "26e35ea5-f7a7-49db-9551-a6cac2b0f2cf",
+        "createdAt": "2022-08-26T20:56:01.626Z",
+        "updatedAt": "2022-08-26T20:56:01.626Z",
+        "name": "buttons/brand-neutral/secondary/stroke-active",
+        "value": {
+            "a": 1,
+            "b": 127,
+            "g": 15,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3275",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "5fb22f9a-87e4-4ddc-a55f-4817878af4ec",
+        "createdAt": "2022-08-26T20:56:01.606Z",
+        "updatedAt": "2022-08-26T20:56:01.606Z",
+        "name": "buttons/brand-neutral/secondary/stroke-hover",
+        "value": {
+            "a": 1,
+            "b": 187,
+            "g": 24,
+            "r": 2
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3276",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "b5c8b3d5-f739-4a8f-b06f-7c8cf90ca664",
+        "createdAt": "2022-08-26T20:56:01.648Z",
+        "updatedAt": "2022-08-26T20:56:01.648Z",
+        "name": "buttons/brand-neutral/secondary/text",
+        "value": {
+            "a": 1,
+            "b": 206,
+            "g": 24,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3287",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "6e467001-6c6d-42aa-863d-e8708798c9be",
+        "createdAt": "2022-08-26T20:56:01.659Z",
+        "updatedAt": "2022-08-26T20:56:01.659Z",
+        "name": "buttons/brand-neutral/secondary/text-active",
+        "value": {
+            "a": 1,
+            "b": 87,
+            "g": 10,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3284",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "71c33992-329f-49d8-b17f-124e2007d9c3",
+        "createdAt": "2022-08-26T20:56:01.655Z",
+        "updatedAt": "2022-08-26T20:56:01.655Z",
+        "name": "buttons/brand-neutral/secondary/text-hover",
+        "value": {
+            "a": 1,
+            "b": 149,
+            "g": 17,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3285",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "1226fac2-2043-4fa6-b42e-29f0e43742c2",
+        "createdAt": "2022-08-26T20:56:01.627Z",
+        "updatedAt": "2022-08-26T20:56:01.627Z",
+        "name": "nav/background",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "908:3843",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "700362b1-a063-478b-b1b5-c1c500c65010",
+        "createdAt": "2022-08-26T20:56:01.612Z",
+        "updatedAt": "2022-08-26T20:56:01.612Z",
+        "name": "nav/brand-logo",
+        "value": {
+            "a": 1,
+            "b": 187,
+            "g": 80,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "909:3848",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "85539c98-9658-46d4-a152-02b71cccd4d0",
+        "createdAt": "2022-08-26T20:56:01.654Z",
+        "updatedAt": "2022-08-26T20:56:01.654Z",
+        "name": "nav/link",
+        "value": {
+            "a": 1,
+            "b": 152,
+            "g": 11,
+            "r": 149
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "908:3845",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "f8c152f2-d4e3-429f-a078-a62a14e7a954",
+        "createdAt": "2022-08-26T20:56:01.656Z",
+        "updatedAt": "2022-08-26T20:56:01.656Z",
+        "name": "nav/link-hover",
+        "value": {
+            "a": 1,
+            "b": 233,
+            "g": 68,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "908:3844",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "e1cf0547-68db-4ad8-9743-679741b88687",
+        "createdAt": "2022-08-26T20:56:01.675Z",
+        "updatedAt": "2022-08-26T20:56:01.675Z",
+        "name": "nav/progress-bar",
+        "value": {
+            "a": 1,
+            "b": 187,
+            "g": 80,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1150:4128",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "f5a437ab-db58-419b-9b6e-5105809ac569",
+        "createdAt": "2022-08-26T20:56:31.792Z",
+        "updatedAt": "2022-08-26T20:56:31.792Z",
+        "name": "nav/progress-bar",
+        "value": {
+            "a": 1,
+            "b": 214,
+            "g": 75,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1161:2373",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "3b170141-e3c0-494b-8dfd-fbf405154862",
+        "createdAt": "2022-08-26T20:56:01.680Z",
+        "updatedAt": "2022-08-26T20:56:01.680Z",
+        "name": "nav/-stroke",
+        "value": {
+            "a": 1,
+            "b": 228,
+            "g": 228,
+            "r": 228
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1093:5360",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "56c59b8f-3aaa-4986-a1bc-92052ebf92cc",
+        "createdAt": "2022-08-26T20:56:31.864Z",
+        "updatedAt": "2022-08-26T20:56:31.864Z",
+        "name": "nav/-stroke",
+        "value": {
+            "a": 1,
+            "b": 247,
+            "g": 247,
+            "r": 247
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1104:3008",
+        "sourceId": "96e2c7db-8021-440d-8a87-8c0a21855326",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "3d609def-9985-423c-abc5-da4c40bb4ebc",
+        "createdAt": "2022-08-26T20:56:01.608Z",
+        "updatedAt": "2022-08-26T20:56:01.608Z",
+        "name": "system/focus-stroke",
+        "value": {
+            "a": 1,
+            "b": 144,
+            "g": 25,
+            "r": 231
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "487:3267",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "23319bf2-6545-40f5-9e97-42578a7d71cf",
+        "createdAt": "2022-08-26T20:56:01.530Z",
+        "updatedAt": "2022-08-26T20:56:01.530Z",
+        "name": "system/price-discounted",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 29,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "928:4670",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "51964b08-cd37-48f4-9f9a-bd5d4e7d9021",
+        "createdAt": "2022-08-26T20:56:01.526Z",
+        "updatedAt": "2022-08-26T20:56:01.526Z",
+        "name": "system/transparent",
+        "value": {
+            "a": 0,
+            "b": 247,
+            "g": 242,
+            "r": 237
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "899:3770",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "b05adc86-955e-469b-b0de-6ec8ca3aed13",
+        "createdAt": "2022-08-26T20:56:01.427Z",
+        "updatedAt": "2022-08-26T20:56:01.427Z",
+        "name": "ui-error/background",
+        "value": {
+            "a": 1,
+            "b": 215,
+            "g": 215,
+            "r": 254
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3152",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "e752e221-a01d-49af-be52-b368249929f2",
+        "createdAt": "2022-08-26T20:56:01.427Z",
+        "updatedAt": "2022-08-26T20:56:01.427Z",
+        "name": "ui-error/icon",
+        "value": {
+            "a": 1,
+            "b": 62,
+            "g": 62,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3137",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "42e1f8fa-af8f-43a5-8ec0-12d2efb5ad6c",
+        "createdAt": "2022-08-26T20:56:01.423Z",
+        "updatedAt": "2022-08-26T20:56:01.423Z",
+        "name": "ui-error/-stroke",
+        "value": {
+            "a": 1,
+            "b": 62,
+            "g": 62,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3126",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "7006fb93-2ce4-430a-8c9e-7122898fba9f",
+        "createdAt": "2022-08-26T20:56:01.452Z",
+        "updatedAt": "2022-08-26T20:56:01.452Z",
+        "name": "ui-error/text",
+        "value": {
+            "a": 1,
+            "b": 62,
+            "g": 62,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3514",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "4519c182-d52c-42e3-8490-5b674c9b567f",
+        "createdAt": "2022-08-26T20:56:01.522Z",
+        "updatedAt": "2022-08-26T20:56:01.522Z",
+        "name": "ui-form/active-stroke",
+        "value": {
+            "a": 1,
+            "b": 214,
+            "g": 75,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "447:2895",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "92ee1740-1a53-43d5-a118-bb556f17bad3",
+        "createdAt": "2022-08-26T20:56:01.522Z",
+        "updatedAt": "2022-08-26T20:56:01.522Z",
+        "name": "ui-form/background",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "447:2901",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "e04829ae-b881-47d6-9cc1-f0183787ce46",
+        "createdAt": "2022-08-26T20:56:01.525Z",
+        "updatedAt": "2022-08-26T20:56:01.525Z",
+        "name": "ui-form/background-hover",
+        "value": {
+            "a": 1,
+            "b": 218,
+            "g": 218,
+            "r": 218
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "899:3762",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "d76b238d-b5dd-481f-a8b8-6de9dd2e5e6e",
+        "createdAt": "2022-08-26T20:56:01.522Z",
+        "updatedAt": "2022-08-26T20:56:01.522Z",
+        "name": "ui-form/hover-stroke",
+        "value": {
+            "a": 1,
+            "b": 152,
+            "g": 59,
+            "r": 8
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "447:2896",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "4ccbe4fd-797c-4d32-935a-7b510b1697f1",
+        "createdAt": "2022-08-26T20:56:01.516Z",
+        "updatedAt": "2022-08-26T20:56:01.516Z",
+        "name": "ui-form/icon",
+        "value": {
+            "a": 1,
+            "b": 240,
+            "g": 232,
+            "r": 226
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "447:2899",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "8780a938-f321-4f0c-85f9-2f7a0071614f",
+        "createdAt": "2022-08-26T20:56:01.507Z",
+        "updatedAt": "2022-08-26T20:56:01.507Z",
+        "name": "ui-form/icon-active",
+        "value": {
+            "a": 1,
+            "b": 214,
+            "g": 75,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "447:2898",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "5f0ffdbe-3faa-401b-9b73-9fa220810dfd",
+        "createdAt": "2022-08-26T20:56:01.508Z",
+        "updatedAt": "2022-08-26T20:56:01.508Z",
+        "name": "ui-form/icon-static",
+        "value": {
+            "a": 1,
+            "b": 54,
+            "g": 54,
+            "r": 54
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "454:2423",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "facd4c8c-bede-43ab-a388-f116bc0f09dd",
+        "createdAt": "2022-08-26T20:56:01.507Z",
+        "updatedAt": "2022-08-26T20:56:01.507Z",
+        "name": "ui-form/-stroke",
+        "value": {
+            "a": 1,
+            "b": 229,
+            "g": 229,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "447:2897",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "ce2ef00f-d37b-46d7-b505-9f181edea4cc",
+        "createdAt": "2022-08-26T20:56:01.506Z",
+        "updatedAt": "2022-08-26T20:56:01.506Z",
+        "name": "ui-form/text",
+        "value": {
+            "a": 1,
+            "b": 61,
+            "g": 61,
+            "r": 61
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "447:2902",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "c76d5132-862d-4018-bdf0-7aa3a347a0bc",
+        "createdAt": "2022-08-26T20:56:01.514Z",
+        "updatedAt": "2022-08-26T20:56:01.514Z",
+        "name": "ui-form/text-weak",
+        "value": {
+            "a": 1,
+            "b": 166,
+            "g": 166,
+            "r": 166
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "447:2900",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "21aa6cfc-ceae-4676-8632-b86996fe55ab",
+        "createdAt": "2022-08-26T20:56:01.685Z",
+        "updatedAt": "2022-08-26T20:56:01.685Z",
+        "name": "ui-information/background",
+        "value": {
+            "a": 1,
+            "b": 247,
+            "g": 236,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3156",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "25714cb3-8cf5-4d6a-b15c-f5b7f6b4a226",
+        "createdAt": "2022-08-26T20:56:01.685Z",
+        "updatedAt": "2022-08-26T20:56:01.685Z",
+        "name": "ui-information/icon",
+        "value": {
+            "a": 1,
+            "b": 234,
+            "g": 7,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3141",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "b2f716ba-ec85-477c-9df5-f944fe5c7b79",
+        "createdAt": "2022-08-26T20:56:01.425Z",
+        "updatedAt": "2022-08-26T20:56:01.425Z",
+        "name": "ui-information/-stroke",
+        "value": {
+            "a": 1,
+            "b": 206,
+            "g": 130,
+            "r": 49
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3131",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "3514a75f-4cea-4010-9a0a-2625fd0e9548",
+        "createdAt": "2022-08-26T20:56:01.391Z",
+        "updatedAt": "2022-08-26T20:56:01.391Z",
+        "name": "ui-information/text",
+        "value": {
+            "a": 1,
+            "b": 31,
+            "g": 31,
+            "r": 31
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3518",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "52a59831-d17d-4886-b083-2a2ee44d2104",
+        "createdAt": "2022-08-26T20:56:01.439Z",
+        "updatedAt": "2022-08-26T20:56:01.439Z",
+        "name": "ui-success/background",
+        "value": {
+            "a": 1,
+            "b": 213,
+            "g": 246,
+            "r": 198
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3153",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "5bceb521-923a-49d3-9272-d35f36fa4ee5",
+        "createdAt": "2022-08-26T20:56:01.401Z",
+        "updatedAt": "2022-08-26T20:56:01.401Z",
+        "name": "ui-success/icon",
+        "value": {
+            "a": 1,
+            "b": 105,
+            "g": 161,
+            "r": 56
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3138",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "1fe12d8c-7cb9-41d1-a57a-871a891cae2d",
+        "createdAt": "2022-08-26T20:56:01.412Z",
+        "updatedAt": "2022-08-26T20:56:01.412Z",
+        "name": "ui-success/-stroke",
+        "value": {
+            "a": 1,
+            "b": 105,
+            "g": 161,
+            "r": 56
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3127",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "0d05696b-a21f-4aae-ae4f-c28a6a6b3aeb",
+        "createdAt": "2022-08-26T20:56:01.454Z",
+        "updatedAt": "2022-08-26T20:56:01.454Z",
+        "name": "ui-success/text",
+        "value": {
+            "a": 1,
+            "b": 31,
+            "g": 31,
+            "r": 31
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3515",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "8978d92f-1aa2-4ac2-ac8c-0087f5f4e5e4",
+        "createdAt": "2022-08-26T20:56:01.683Z",
+        "updatedAt": "2022-08-26T20:56:01.683Z",
+        "name": "ui-warning/background",
+        "value": {
+            "a": 1,
+            "b": 242,
+            "g": 250,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3155",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "bb1fc560-dba1-43b5-b683-3ebe8ff543c8",
+        "createdAt": "2022-08-26T20:56:01.439Z",
+        "updatedAt": "2022-08-26T20:56:01.439Z",
+        "name": "ui-warning/icon",
+        "value": {
+            "a": 1,
+            "b": 32,
+            "g": 107,
+            "r": 221
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3140",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "9ab9a912-d098-4482-b87d-b8f127ec834f",
+        "createdAt": "2022-08-26T20:56:01.671Z",
+        "updatedAt": "2022-08-26T20:56:01.671Z",
+        "name": "ui-warning/-stroke",
+        "value": {
+            "a": 1,
+            "b": 157,
+            "g": 183,
+            "r": 223
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3130",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    },
+    {
+        "id": "2b17f236-cbab-4c7d-b2e4-05cb7694d449",
+        "createdAt": "2022-08-26T20:56:01.425Z",
+        "updatedAt": "2022-08-26T20:56:01.425Z",
+        "name": "ui-warning/text",
+        "value": {
+            "a": 1,
+            "b": 31,
+            "g": 31,
+            "r": 31
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "2:3517",
+        "sourceId": "3e36373c-047a-4a45-89a6-42776395d4c0",
+        "repositoryId": "2e959e30-2cae-444f-9666-c536ac8a6780"
+    }
+]
