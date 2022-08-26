@@ -17,6 +17,18 @@
           }
         },
         {
+          "name": "replace-string",
+          "options": {
+            "keys": ["name"],
+            "regex": {
+              "pattern": "^brand-contrast.*$",
+              "flags": "g"
+            },
+            "replaceBy": "",
+            "trim": true
+          }
+        },
+        {
           "name": "omit",
           "options": {
             "keys": ["value.textAlign"]
@@ -72,6 +84,18 @@
             "regex": {
               "pattern": "^brand-subtle.*$"
             }
+          }
+        },
+        {
+          "name": "replace-string",
+          "options": {
+            "keys": ["name"],
+            "regex": {
+              "pattern": "^brand-subtle.*$",
+              "flags": "g"
+            },
+            "replaceBy": "",
+            "trim": true
           }
         },
         {
