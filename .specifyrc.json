@@ -6,7 +6,9 @@
     {
       "name": "Extract Facet tokens to JSON",
       "path": "specify_output/facet.json",
-      "parsers": []
+      "parsers": [
+
+      ]
     }
   ]
 }
